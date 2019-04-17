@@ -13,3 +13,6 @@
 
 
 ![image2](https://raw.githubusercontent.com/zhouzheru/TaoBao-goods-bought/master/2.jpg)
+
+
+![image3](https://raw.githubusercontent.com/zhouzheru/TaoBao-goods-bought/master/3.jpg)
