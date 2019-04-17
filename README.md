@@ -10,3 +10,6 @@
 
 ![image1](https://raw.githubusercontent.com/zhouzheru/TaoBao-goods-bought/master/1.jpg)
 
+
+
+![image2](https://raw.githubusercontent.com/zhouzheru/TaoBao-goods-bought/master/2.jpg)
