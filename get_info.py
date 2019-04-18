@@ -1,4 +1,4 @@
-from lxml import etree
+
 import re
 import requests
 import time
