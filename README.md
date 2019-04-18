@@ -7,7 +7,7 @@
 
 
 不断点击下一页 可以看出AJAX 是个POST请求，需要提交data。
-最后输出保存如csv文件中的那样。
+最后输出保存如csv文件中显示。
 
 ![image1](https://raw.githubusercontent.com/zhouzheru/TaoBao-goods-bought/master/1.jpg)
 
