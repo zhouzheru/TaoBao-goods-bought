@@ -51,7 +51,7 @@ class TaoBao():
         current_url = self.browser.current_url
 
 
-    def save_cookies_and_url(self):
+    def save_cookies(self):
             cookies = self.browser.get_cookies()
  
             with open("cookies.txt","w") as f:
@@ -64,13 +64,13 @@ class TaoBao():
 
 
 if __name__=='__main__':
-        chromedriver_path=r'C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chromedriver.exe'
+        
         #############是从微博模拟登陆,输入微博账号密码。###################
         username = input("username：")  # 这里换成你的账户
         password = input("password：") #这里换成你密码
         s=TaoBao()
         s.login()
-        s.save_cookies_and_url()
+        s.save_cookies()
 
 
 
